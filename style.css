@@ -57,6 +57,13 @@ table {
     /*color: #191e3f;*/
 }
 
+notice {
+    font-family: roboto, sans-serif;
+    color: #9e0707;
+    font-size: 14px;
+    /*color: #191e3f;*/
+}
+
 p {
     font-size: 14px;
     line-height: 24px;
