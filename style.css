@@ -53,7 +53,7 @@ table {
 
 #body{
     font-family: roboto, sans-serif;
-    color: #a0a8b0;
+    color: #000000;
     /*color: #191e3f;*/
 }
 
@@ -154,7 +154,7 @@ h1 {
 }
 
 .slider {
-    width: 2200px;
+    width: 918px;
 }
 
 .slider a:hover {
@@ -210,7 +210,7 @@ ul {
     list-style-type: disc;
     margin-left: 30px;
     margin-bottom: 30px;
-    color: #a0a8b0;
+    color: #000000;
 }
 
 .showBtn {
